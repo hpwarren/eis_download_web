@@ -1,7 +1,7 @@
 # eis_download_web
 
 ```
-./eis_download_web.py
+> ./eis_download_web.py --test
 reading https://eis.nrl.navy.mil/level1/hdf5/2023/04/12
 files to check : 278
  
